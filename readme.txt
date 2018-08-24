@@ -1,3 +1,3 @@
 <<<<<<< HEAD
 creating a new branch is quick & simple.
-branch file is edited.
+branch file is 20180824.
