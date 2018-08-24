@@ -1,3 +1,2 @@
-<<<<<<< HEAD
-creating a new branch is quick & simple.and so on.
+creating a new branch is quick & simple.
 branch file is 20180824.
